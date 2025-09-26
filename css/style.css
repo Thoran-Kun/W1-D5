@@ -107,6 +107,54 @@ main p:nth-of-type(2) {
   margin-bottom: 5px;
 }
 
+.card1 img {
+  width: 100%;
+}
+
+.card1 p {
+  padding-bottom: 40px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid grey;
+}
+
+.card1 h3,
+.card1 p {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.card2 img {
+  width: 100%;
+}
+
+.card2 p {
+  padding-bottom: 40px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid grey;
+}
+
+.card2 h3,
+.card2 p {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.card3 img {
+  width: 100%;
+}
+
+.card3 p {
+  padding-bottom: 40px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid grey;
+}
+
+.card3 h3,
+.card3 p {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
 /* FOOTER */
 
 footer {
